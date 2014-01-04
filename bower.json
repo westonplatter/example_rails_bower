@@ -14,6 +14,16 @@
     "test",
     "tests"
   ],
+  "install": {
+    "path": {
+      "css": "vendor/assets/stylesheets",
+      "js": "vendor/assets/javascripts",
+      "eot": "vendor/assets/fonts",
+      "svg": "vendor/assets/fonts",
+      "ttf": "vendor/assets/fonts",
+      "woff": "vendor/assets/fonts"
+    }
+  },
   "dependencies": {
     "jquery": "~2.0.3",
     "jquery-ujs": "*",
