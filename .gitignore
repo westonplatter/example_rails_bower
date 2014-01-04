@@ -17,3 +17,6 @@
 
 # ignore npm depedencies
 node_modules
+
+# ignore bower dependencies
+bower_components
