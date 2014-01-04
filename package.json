@@ -12,6 +12,7 @@
   "author": "",
   "license": "BSD-2-Clause",
   "devDependencies": {
-    "bower": "~1.2.8"
+    "bower": "~1.2.8",
+    "bower-installer": "~0.6.1"
   }
 }
